@@ -2,7 +2,7 @@
 A talk to be given at the WA chapter meeting of [SAGE-AU][]
 (The System Administrators Guild of Australia)
 
-    [SAGE-AU]: http://www.sage-au.org.au/
+  [SAGE-AU]: http://www.sage-au.org.au/
 
 ## Blurb
 
