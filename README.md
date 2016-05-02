@@ -20,6 +20,12 @@ certificate infrastructure for their own servers.
 
 ## Outline
 
+  1. Intro
+  1. Support
+     - OpenSSH only
+     - Since OpenSSH v5.4 
+  1. ...
+
 ## Presenter bio
 
 Alastair is a Software Engineer and system administrator by trade.  He has a BSc in Computer Science from Curtin University.
