@@ -20,11 +20,27 @@ certificate infrastructure for their own servers.
 
 ## Outline
 
-  1. Intro
-  1. Support
-     - OpenSSH only
-     - Since OpenSSH v5.4 
-  1. ...
+  1. Introduction
+  1. PKI Example – WWW
+  1. PKI Example – OpenVPN
+  1. SSH public keys
+  1. Disadvantages of public keys
+  1. A new approach – SSH certificates
+  1. Technical details
+  1. CA Considerations
+  1. Creating a CA
+  1. Signing a public key
+  1. Setting up a server – method 1 (Installing the CA certificate)
+  1. Setting up a server – method 2 (Installing the CA certificate)
+  1. Demo
+  1. Further server setup
+  1. Conclusion
+  1. Creating a CA for servers
+  1. Signing host public keys
+  1. Preparing clients
+  1. Setting up a server
+     - /etc/ssh/sshd_config: HostCertificate
+  1. Gotchas
 
 ## Presenter bio
 
